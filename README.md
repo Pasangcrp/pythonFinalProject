@@ -12,10 +12,10 @@ The dataset used in this analysis was obtained from the GitHub repository 'Data 
 - Numerical Analysis: NumPy🔢
 - Visualizations: Matplotlib📊
 
-## 📩Contact
-For any inquiries, feel free to reach out to [Pasang Tshering Sherpa](mailto:pasangtshering2003@gmail.com).I'm happy to help! 😊
-
 ![Shopper Analysis](https://github.com/Pasangcrp/pythonFinalProject/blob/main/assets/img.png)
 
 ## 🚀Conclusion
 This data analysis project highlights key insights into customer behavior and spending patterns, which can help drive strategic decisions for the store. By leveraging Python and its powerful libraries, we’ve been able to visualize and interpret data effectively. 🎯📊
+
+## 📩Contact
+For any inquiries, feel free to reach out to [Pasang Tshering Sherpa](mailto:pasangtshering2003@gmail.com).I'm happy to help! 😊
